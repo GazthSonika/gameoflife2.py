@@ -1,4 +1,4 @@
-## Game of life (better optymised version) 
+## Game of life (better optimised version) 
 
 # Install
 `pip install -r requirements.txt`
